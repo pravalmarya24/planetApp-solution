@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.img-size {
+  height: 280px;
+  width: 350px;
+}
+
+.planet-name-para {
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 500;
+  color: #f8fafc;
+}
+
+.planet-description-para {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  color: #f1f5f9;
+}
